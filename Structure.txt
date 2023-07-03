@@ -1,0 +1,9 @@
+An effective bug report should contain the following:
+
+Title/Bug ID
+Environment
+Steps to reproduce a Bug
+Expected Result
+Actual Result
+Visual Proof (screenshots, videos, text) of Bug
+Severity/Priority
